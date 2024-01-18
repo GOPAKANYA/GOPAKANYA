@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GOPAKANYA
 - 👀 I’m interested in learning !
  I loooove to learn and be able to talk about all things related to personal development and career development.
-- 🌱 I’m currently learning UX design, Javascript, Chinese, and personal assisting.
+- 🌱 I’m currently learning front-end dev, Javascript, Chinese, and personal assisting.
 - 💞️ I’m open to learning and collaborating.
 - 📫 How to reach me: echarry.gkd@gmail.com
 - 😄 Pronouns: She
